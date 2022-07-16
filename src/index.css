@@ -1,0 +1,24 @@
+.shown {
+    display: block;
+}
+.hidden {
+    display: none;
+}
+body {
+    font-family: 'jost', sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column {
+    float: left;
+    padding: 10px;
+    height: 98vh;
+}
+* {
+    box-sizing: border-box;
+}

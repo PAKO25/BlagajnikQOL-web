@@ -1,0 +1,20 @@
+.addField {
+    font-size: 3vh;
+}
+.inputData {
+    border: 1px solid black;
+    border-radius: 20%;
+    height: 3.5vh;
+    width: 10vw;
+}
+.inputData::placeholder {
+    padding-left: 0.5vw;
+    font-size: 1.5vh;
+}
+.addBtn {
+    border: 1px solid black;
+    border-radius: 20%;
+    height: 3vh;
+    width: 7vw;
+    margin-top: 5vh;
+}

@@ -1,0 +1,17 @@
+.tileBtn {
+    width: 25vw;
+    height: 30vh;
+    border-radius: 20%;
+    margin: 3vh;
+    background-color: whitesmoke;
+}
+.clovek {
+    white-space: nowrap;
+    font-size: 3vh;
+}
+.clovekTxt {
+    display: inline-block;
+    margin-right: 60%;
+    margin-top: 2vh;
+    margin-bottom: 0px;
+}

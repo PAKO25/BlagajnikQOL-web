@@ -1,0 +1,26 @@
+.titleimg {
+    position: absolute;
+    width: 35vw;
+    height: auto;
+    top: 20%;
+    left: 5%;
+}
+.titleText {
+    font-size: 4vw;
+    color: rgb(30, 30, 30);
+}
+#loginBtn {
+    width: 13vw;
+    height: 8vh;
+    margin-top: 2vh;
+    border-radius: 40%;
+    font-size: 1vw;
+    background-color: rgb(150, 245, 245);
+    border: 0;
+}
+.content {
+    position: absolute;
+    top: 35%;
+    right: 12%;
+    text-align: center;
+}

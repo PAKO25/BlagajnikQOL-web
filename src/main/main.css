@@ -1,0 +1,33 @@
+.left1 {
+    width: 10%;
+    text-align: left;
+}
+.right1 {
+    width: 90%;
+    text-align: center;
+}
+.line {
+    border-color: black; 
+    margin-top: 6vh;
+}
+#nameField {
+    font-size: 4vh; 
+    display: inline-block;
+}
+.logoutBtn {
+    display: inline-block; 
+    margin-left: 30%;
+    width: 13vw;
+    height: 8vh;
+    border-radius: 40%;
+}
+.left2 {
+    width: 80%;
+}
+.right2 {
+    border-left: 2px solid black;
+    width: 20%;
+}
+.limitheight {
+    height: auto;
+}

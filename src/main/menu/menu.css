@@ -1,0 +1,23 @@
+.menuimg {
+    width: 3vw;
+    height: auto;
+}
+.imgborder {
+    padding: 2vh;
+    width: 6vw;
+    border: solid black;
+    margin: auto;
+    text-align: center;
+}
+.backBtn {
+    width: 8vw;
+    height: 4vh;
+    border-radius: 20%;
+    margin-top: 45vh;
+}
+li {
+    font-size: 2vh;
+}
+.margintop {
+    margin-top: 10vh;
+}
